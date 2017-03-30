@@ -1,0 +1,11 @@
+Hello,everyone.
+
+Welcome to linux system programming.
+
+Let's get started.
+
+The prerequisite for this tutorial is to familiar with c programming.
+
+During this tutorial also refer man pages available in shell(terminal) or Linux Programming Interface(Kerrisk) book.
+
+Every week there is an assignment.
